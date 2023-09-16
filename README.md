@@ -1,6 +1,7 @@
+![Banner](Banner.png)
 
 # Kurylo's Software List
-(Last Updated: July 2023)
+(Last Updated: September 2023)
 
 ## Development
     Code-Editor: Visual Studio Code
@@ -39,5 +40,19 @@
     - Peacock
     - Prettier
     - Vim
-### More coming soon ...
 
+## Audio
+    DAW: Studio One 5
+    DAW: Studio One 4 Artist
+
+    Voice Synth: Vocaloid 4
+    Voice Synth: Vocaloid 2
+
+    VSTi: Piapro Studio
+
+    Voicebank: Hatsune Miku V4X
+    Voicebank: Hatsune Miku V2
+
+    Player: foobar2000
+    Player: Cider
+### More coming soon ...
